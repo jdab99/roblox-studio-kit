@@ -1,0 +1,301 @@
+{
+ "music": {
+  "file": "assets/music/your-song.mp3",
+  "lufs": -30
+ },
+ "cues": [
+  {
+   "t": 0.0,
+   "sfx": "whoosh-sfx",
+   "db": -10
+  },
+  {
+   "t": 0.12,
+   "sfx": "vine-boom",
+   "db": -8
+  },
+  {
+   "t": 0.55,
+   "sfx": "whoosh-short",
+   "db": -12
+  },
+  {
+   "t": 0.95,
+   "sfx": "whoosh-short",
+   "db": -12
+  },
+  {
+   "t": 1.35,
+   "sfx": "bass-boom",
+   "db": -12
+  },
+  {
+   "t": 1.48,
+   "sfx": "cha-ching",
+   "db": -11
+  },
+  {
+   "t": 2.02,
+   "sfx": "whoosh-short",
+   "db": -13
+  },
+  {
+   "t": 2.08,
+   "sfx": "pop-soft",
+   "db": -11
+  },
+  {
+   "t": 3.3,
+   "sfx": "ui-pop",
+   "db": -12
+  },
+  {
+   "t": 4.25,
+   "sfx": "boing",
+   "db": -11
+  },
+  {
+   "t": 6.45,
+   "sfx": "pop-cork",
+   "db": -18
+  },
+  {
+   "t": 7.8,
+   "sfx": "impact-cinematic-boom",
+   "db": -11
+  },
+  {
+   "t": 8.05,
+   "sfx": "roblox-oof",
+   "db": -10
+  },
+  {
+   "t": 8.57,
+   "sfx": "whoosh-short",
+   "db": -14
+  },
+  {
+   "t": 10.22,
+   "sfx": "ding",
+   "db": -12
+  },
+  {
+   "t": 12.44,
+   "sfx": "chime",
+   "db": -12
+  },
+  {
+   "t": 13.15,
+   "sfx": "cha-ching",
+   "db": -11
+  },
+  {
+   "t": 13.95,
+   "sfx": "cha-ching",
+   "db": -11
+  },
+  {
+   "t": 14.3,
+   "sfx": "riser-flashback",
+   "db": -15
+  },
+  {
+   "t": 17.6,
+   "sfx": "tada",
+   "db": -12
+  },
+  {
+   "t": 18.07,
+   "sfx": "pop-soft",
+   "db": -12
+  },
+  {
+   "t": 18.7,
+   "sfx": "bruh",
+   "db": -9
+  },
+  {
+   "t": 19.5,
+   "sfx": "whoosh-short",
+   "db": -13
+  },
+  {
+   "t": 21.91,
+   "sfx": "whoosh-short",
+   "db": -14
+  },
+  {
+   "t": 23.1,
+   "sfx": "whoosh-short",
+   "db": -14
+  },
+  {
+   "t": 24.33,
+   "sfx": "whoosh-short",
+   "db": -14
+  },
+  {
+   "t": 26.0,
+   "sfx": "aww",
+   "db": -13
+  },
+  {
+   "t": 26.8,
+   "sfx": "minecraft-villager-hmm",
+   "db": -10
+  },
+  {
+   "t": 27.6,
+   "sfx": "bonk",
+   "db": -13
+  },
+  {
+   "t": 29.95,
+   "sfx": "vine-boom",
+   "db": -9
+  },
+  {
+   "t": 32.4,
+   "sfx": "cricket-chirp",
+   "db": -12,
+   "len": 1.2
+  },
+  {
+   "t": 33.9,
+   "sfx": "aww",
+   "db": -14
+  },
+  {
+   "t": 35.55,
+   "sfx": "ui-pop",
+   "db": -12
+  },
+  {
+   "t": 36.05,
+   "sfx": "ui-pop",
+   "db": -12
+  },
+  {
+   "t": 36.5,
+   "sfx": "boing-2",
+   "db": -11
+  },
+  {
+   "t": 39.84,
+   "sfx": "click-soft",
+   "db": -9
+  },
+  {
+   "t": 40.5,
+   "sfx": "click-soft",
+   "db": -10
+  },
+  {
+   "t": 41.31,
+   "sfx": "whoosh-sfx",
+   "db": -12
+  },
+  {
+   "t": 43.0,
+   "sfx": "heartbeat",
+   "db": -14,
+   "len": 2.2
+  },
+  {
+   "t": 45.8,
+   "sfx": "dun-dun-dun",
+   "db": -12
+  },
+  {
+   "t": 55.9,
+   "sfx": "whoosh-short",
+   "db": -11
+  },
+  {
+   "t": 57.55,
+   "sfx": "ping-soft",
+   "db": -10
+  },
+  {
+   "t": 58.05,
+   "sfx": "bass-boom",
+   "db": -11
+  },
+  {
+   "t": 67.6,
+   "sfx": "record-scratch",
+   "db": -11
+  },
+  {
+   "t": 71.0,
+   "sfx": "chime",
+   "db": -11
+  },
+  {
+   "t": 75.0,
+   "sfx": "huh",
+   "db": -9
+  },
+  {
+   "t": 76.95,
+   "sfx": "boing",
+   "db": -12
+  },
+  {
+   "t": 77.45,
+   "sfx": "boing-2",
+   "db": -12
+  },
+  {
+   "t": 78.2,
+   "sfx": "aww",
+   "db": -14
+  },
+  {
+   "t": 80.85,
+   "sfx": "whoosh-short",
+   "db": -13
+  },
+  {
+   "t": 83.35,
+   "sfx": "ding",
+   "db": -12
+  },
+  {
+   "t": 85.0,
+   "sfx": "tada",
+   "db": -12
+  },
+  {
+   "t": 85.8,
+   "sfx": "whoosh-sfx",
+   "db": -12
+  },
+  {
+   "t": 87.95,
+   "sfx": "vine-boom",
+   "db": -9
+  },
+  {
+   "t": 90.6,
+   "sfx": "anime-wow",
+   "db": -12
+  },
+  {
+   "t": 91.42,
+   "sfx": "record-scratch",
+   "db": -9
+  },
+  {
+   "t": 91.6,
+   "sfx": "wrong-buzzer",
+   "db": -12
+  },
+  {
+   "t": 92.6,
+   "sfx": "ding",
+   "db": -13
+  }
+ ],
+ "music_credit": "put your song credit here"
+}

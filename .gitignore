@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.mp4
+*.mp3
+*.wav
+*.rbxl
+*.rbxl.lock
+*.lock
+*.pid
+reels/
+assets/sfx/*
+!assets/sfx/.gitkeep
+assets/music/*
+!assets/music/.gitkeep
